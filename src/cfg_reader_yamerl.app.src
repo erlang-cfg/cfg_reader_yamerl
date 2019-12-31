@@ -1,0 +1,8 @@
+{application
+,cfg_reader_yamerl
+,[{description, "An OTP application"}
+ ,{vsn, "0.0.0"}
+ ,{applications, [kernel, stdlib, cfg]}
+ ,{maintainers, ["pouriya.jahanbakhsh@gmail.com"]}
+ ,{licenses, ["UNLICENSED"]}
+ ,{links, [{"", ""}]}]}.
